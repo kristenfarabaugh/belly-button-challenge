@@ -1,1 +1,4 @@
 # belly-button-challenge
+During this challenge, I used Javascipt and HTML to visualize the microbial species found in belly button samples. I had help from my tutor (David Chao) - he helped me understand the concepts I was missing during class and how to apply them to this assignment.
+
+Link to Dashboard: file:///C:/Users/kfarabau/repos/belly-button-challenge/Starter_Code/StarterCode/index.html
